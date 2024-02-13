@@ -7,4 +7,4 @@
    This project is built using only python and sqlite for database
    
    Tools : Python, Tkinter module, Sqlite(DB)
-   <img width="482" alt="contactscr" src="https://github.com/Yashovardhan15/Python_projects/assets/65111512/4bac98a3-4d5a-468b-96a8-2d23d816f275">
+   <img width="382" alt="contactscr" src="https://github.com/Yashovardhan15/Python_projects/assets/65111512/4bac98a3-4d5a-468b-96a8-2d23d816f275">
